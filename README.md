@@ -6,4 +6,6 @@
 
 ## Aprendendo sobre o git log
 
-* Uso do comando git restore
+## Uso do comando git restore
+
+## Comando git push
