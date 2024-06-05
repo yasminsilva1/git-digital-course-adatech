@@ -5,3 +5,5 @@
 ## Salvando mudanças no Git
 
 ## Aprendendo sobre o git log
+
+* Uso do comando git restore
